@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Problem Solver</string>
+    <string name="begin_button">Begin</string>
+    <string name="farmerIntro">
+    A farmer and his wolf, goat, and cabbage come to the edge of
+    a river they wish to cross. There is a boat at the river\'s edge
+    that only the farmer can row. The farmer can take at most one other
+    object besides himself on a crossing, but if the wolf is ever left with
+    the goat, the wolf will eat the goat; similarly, if the goat is left with
+    the cabbage. Devise a sequence of crossings of the river so that all four
+    characters arrive safely on the other side.</string>
+    <string name ="puzzleIntro">You are given a board in which numbered tiles can slide around.
+            There is one blank space that holds no tile.  A legal move
+            consists of sliding a tile into the blank space if the tile is
+            adjacent to it. The goal is to move tiles around until the board
+            looks like the final state below.</string>
+    <string name="puzzleText">Click a tile to move it</string>
+</resources>
